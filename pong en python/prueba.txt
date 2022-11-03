@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 probando el pull request 2
 kajhsdkjsad
 akjhdjkasdhkasd
+=======
+probando subir al git de chano (?)
+>>>>>>> da2e51c6ddaaf140dbcefa97916d1974cb8d553f
